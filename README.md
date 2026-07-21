@@ -67,7 +67,11 @@ Some measures used in this project include:
 
 ## Dashboard Preview
 
-(Add screenshots here)
+<img width="1180" height="652" alt="image" src="https://github.com/user-attachments/assets/12959c07-29b3-4842-9c76-07b2aac329e1" />
+<img width="1185" height="646" alt="Screenshot 2026-07-21 043835" src="https://github.com/user-attachments/assets/45ab76e0-f5f0-4a47-a384-09a02ff57471" />
+<img width="1158" height="645" alt="Screenshot 2026-07-21 043814" src="https://github.com/user-attachments/assets/d6b4db3b-fe28-44fa-b43a-2297b774210c" />
+
+
 
 ## Project Objective
 
